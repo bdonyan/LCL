@@ -1,6 +1,6 @@
 # LabelChain Rewards
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Users are able to upload data to be labeled by other users around the world. The accuracy of this process is verified through sample data that is uploaded, and the verifier is paid out in Aptos Coin, with the transaction being secured on the blockchain.
 
 ![image](https://github.com/bdonyan/LCR/assets/66976326/8c4d459b-e8fa-404c-9b92-1932a758891e)
 
